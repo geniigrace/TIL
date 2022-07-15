@@ -106,3 +106,13 @@ Push Results : main→main [rejected-non-fast-forward]
 // http://handa.tistory.com/36
 
 [[Eclipse + GIT] rejected - non-fast-forward 오류 해결](https://hanyda.tistory.com/36)
+
+
+2022-07-15
+
+결국 또 한번의 오류로 위의 링크 글을 참고해서 
+
+근본적인 오류를 해결했다.
+
+>내가 처리했던건 임시방편이었던 것🥲
+>
