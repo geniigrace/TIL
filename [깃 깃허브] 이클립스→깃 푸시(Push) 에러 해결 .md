@@ -70,11 +70,11 @@ Push Results : main→main [rejected-non-fast-forward]
 
 직접 깃허브에 파일을 업로드하기로 했다.
 
-![업로드 원하는 디렉토리에 Add file → Upload files](%5B%E1%84%80%E1%85%B5%E1%86%BA%20%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%5D%20%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E2%86%92%E1%84%80%E1%85%B5%E1%86%BA%20%E1%84%91%E1%85%AE%E1%84%89%E1%85%B5(Push)%20%E1%84%8B%E1%85%A6%E1%84%85%E1%85%A5%20%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%20a4eedff817e64ebf908455865e6f1dc2/Untitled.png)
+![업로드 원하는 디렉토리에 Add file → Upload files](https://github.com/geniigrace/TIL/blob/main/img/2207140103_git_rejected-non-fast-forward.png?raw=true)
 
 업로드 원하는 디렉토리에 Add file → Upload files
 
-![Untitled](%5B%E1%84%80%E1%85%B5%E1%86%BA%20%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3%5D%20%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E2%86%92%E1%84%80%E1%85%B5%E1%86%BA%20%E1%84%91%E1%85%AE%E1%84%89%E1%85%B5(Push)%20%E1%84%8B%E1%85%A6%E1%84%85%E1%85%A5%20%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%20a4eedff817e64ebf908455865e6f1dc2/Untitled%201.png)
+![Untitled](https://github.com/geniigrace/TIL/blob/main/img/2207140104_git_rejected-non-fast-forward.png?raw=true)
 
 업로드하고싶은 폴더 그대로 Drag&Drop 하고  Commit Changes 하면 끝이다.
 
@@ -92,5 +92,7 @@ Push Results : main→main [rejected-non-fast-forward]
 여러 포스팅을 찾아봤지만 가장 깔끔하게 정리되어 참고하기 좋았던 분의 포스팅도 
 
 함께 남겨둔다.
+
+// http://handa.tistory.com/36
 
 [[Eclipse + GIT] rejected - non-fast-forward 오류 해결](https://hanyda.tistory.com/36)
