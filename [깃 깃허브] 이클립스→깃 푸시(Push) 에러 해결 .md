@@ -1,8 +1,7 @@
 # [깃/깃허브] 이클립스→깃 푸시(Push) 에러 해결 (Eclipse : Push Results : reject-non-fast -forward)
 
-날짜: 2022/07/14
-진행: In progress
-포스팅: Notion
+
+
 
 이클립스에서 자바 패키지를 만들면 패키지명으로 폴더가 생성된다.
 
